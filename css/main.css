@@ -1,5 +1,9 @@
 /* CSS Document */
 
-body {
-font: 13px/1.5 Arial,sans-serif !important;
+.container-16 .grid-11 {
+	overflow: hidden;
+}
+
+.container-12 .grid-3, .container-16 .grid-5 {
+overflow: hidden;
 }

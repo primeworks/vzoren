@@ -21,3 +21,55 @@ top: 15px !important;
 #site-menu a:hover, #site-menu .active{
 	color: #FFF !important;
 }
+
+#header-first{
+	background-color: #C3C3C3;
+	/*height: 29px;
+	padding-top: 16px;*/
+	font-size: 13px;
+}
+
+#header-first a{
+	vertical-align: middle;
+	height: 29px;
+	display: inline-block !important;
+	padding: 16px 18px 0px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #b4b4b4;
+	border-right-color: #b4b4b4;
+	border-bottom-color: #b4b4b4;
+	border-left-color: #b4b4b4;
+}
+
+#header-first a:hover{
+	background-color: #a7a7a7;
+}
+
+#header-first ul{
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+#header-first ul li{
+	display: inline-block !important;
+	padding: 0px !important;
+	margin: 0px 0px 0px -4px !important;
+}
+
+#header-first a:link,
+#header-first .active{
+	color: #2e2e2e !important;
+	text-decoration: none !important;
+	background: -webik-linear-gradient(top, #4d0b0b, #131111, #111111) !important;
+	background: -ms-linear-gradient(top, #4d0b0b, #131111, #111111) !important;
+	background: -o-linear-gradient(top, #4d0b0b, #131111, #111111) !important;
+	background: linear-gradient(top, #4d0b0b, #131111, #111111) !important;
+	font-weight: bold !important;
+}
