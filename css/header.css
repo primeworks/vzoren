@@ -1,0 +1,23 @@
+/* CSS Document */
+
+#branding {
+top: 15px !important;
+}
+
+#site-menu {
+	text-align: left !important;
+	position: relative !important;
+	top: -95px !important;
+	background-color: #2d2d2d;
+	height: 32px;
+	padding-top: 15px;
+}
+
+#site-menu a:link, #site-menu a:visited{
+	color: #a2a2a2;
+	text-decoration: none;
+}
+
+#site-menu a:hover, #site-menu .active{
+	color: #FFF !important;
+}
